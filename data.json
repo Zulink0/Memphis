@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "Cabang": "Bekasi",
+        "Dada": 1,
+        "Paha": 1,
+        "Nasi": 2,
+        "SpeedFry": false,
+        "Total": 29000,
+        "Tanggal": "22-10-2025 08:29:33 WIB"
+    }
+]
