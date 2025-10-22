@@ -1,4 +1,10 @@
 # Memphis Fried Chicken
+# Anggota Kelompok
+**1. LM. Rionaldy Syukur (242295)**
+
+**2. Muh. Revald Zurawski (242302)**
+
+**3. Muh. Rafi Rifkiyansyah (242304)**
 ### Sistem Pemesanan dan Riwayat Pembelian
 Dibuat menggunakan *PHP, **HTML, **CSS (Bootstrap), dan **JSON*  
 untuk memenuhi tugas mata kuliah *Pemrograman Web Native*.
