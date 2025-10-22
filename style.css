@@ -1,0 +1,26 @@
+body {
+  background-color: #fffaf5;
+  font-family: "Poppins", sans-serif;
+}
+
+h2 {
+  color: #c0392b;
+  font-weight: bold;
+}
+
+.container {
+  max-width: 700px;
+}
+
+label {
+  font-weight: 500;
+}
+
+.btn-primary {
+  background-color: #e74c3c;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #c0392b;
+}
